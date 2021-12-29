@@ -8,12 +8,22 @@ Count the lines in the file using a conditional command that is only executed if
 
 Output for tail command must be like this:
 zixi-transport
+
 zmp
+
 zoomcp
+
 zre-disc
+
 zsecure
+
 zserv
+
 z-wave
+
 z-wave-s
+
 z-wave-tunnel
+
 zymed-zpp
+
