@@ -42,4 +42,4 @@ Create a bash script to perform user management tasks as outlined below:
 ### P.S.
 
 This task copied from [NDG Linux Essentials](https://lms.netacad.com/course/view.php?id=963355) original course of [netacad.com](https://www.netacad.com/).
-The reason that it is copied here is just for easy access of task and that original course is free.
+The reason that it is copied here is just for easy access to task and that original course is free.
