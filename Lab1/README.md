@@ -38,3 +38,8 @@ Create a bash script to perform user management tasks as outlined below:
 
 - Create a new unique user and new unique group.
 - Show the error when a duplicate user or duplicate group are created.
+
+### P.S.
+
+This task copied from [NDG Linux Essentials](https://lms.netacad.com/course/view.php?id=963355) original course of [netacad.com](https://www.netacad.com/).
+The reason that it is copied here is just for easy access of task and that original course is free.
